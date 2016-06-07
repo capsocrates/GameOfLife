@@ -16,6 +16,7 @@ $RECYCLE.BIN/
 
 # cocos2d files
 cocos2d/*
+*.o.d
 
 # Windows shortcuts
 *.lnk
