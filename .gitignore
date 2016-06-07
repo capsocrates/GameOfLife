@@ -22,6 +22,11 @@ $RECYCLE.BIN/
 *.csb
 *.idb
 *.pfx
+*.obj
+*.tlog
+*.ilk
+*.res
+*.icns
 
 # cocos2d files
 cocos2d/*
