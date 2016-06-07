@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 *.ilk
 *.res
 *.icns
+*.sdf
 
 # cocos2d files
 cocos2d/*
