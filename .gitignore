@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# cocos2d files
+cocos2d/*
+
 # Windows shortcuts
 *.lnk
 
