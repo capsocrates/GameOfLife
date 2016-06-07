@@ -19,6 +19,9 @@ $RECYCLE.BIN/
 *.lib
 *.pdb
 *.exp
+*.csb
+*.idb
+*.pfx
 
 # cocos2d files
 cocos2d/*
